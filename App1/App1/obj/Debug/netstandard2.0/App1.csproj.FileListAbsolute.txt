@@ -1,0 +1,15 @@
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/obj/Debug/netstandard2.0/App1.csproj.AssemblyReference.cache
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/obj/Debug/netstandard2.0/App1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/obj/Debug/netstandard2.0/App1.AssemblyInfoInputs.cache
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/obj/Debug/netstandard2.0/App1.AssemblyInfo.cs
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/obj/Debug/netstandard2.0/App1.csproj.CoreCompileInputs.cache
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/obj/Debug/netstandard2.0/App1.dll
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/obj/Debug/netstandard2.0/ref/App1.dll
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/obj/Debug/netstandard2.0/App1.pdb
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/bin/Debug/netstandard2.0/App1.deps.json
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/bin/Debug/netstandard2.0/App1.dll
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/bin/Debug/netstandard2.0/ref/App1.dll
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/bin/Debug/netstandard2.0/App1.pdb
+/Users/charlesoliveira/Downloads/Repositorios/App1/App1/obj/Debug/netstandard2.0/XamlC.stamp
